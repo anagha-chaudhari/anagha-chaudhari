@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anagha-chaudhari
-- 🙌 I'm eager to begin my open-source journey
 - 🌱 I’m currently learning web development
+- 🙌 I'm eager to begin my open-source journey
 - 📝 I’m looking to collaborate on new projects
 - 📫 Reach me at chaudhari.30.anagha@gmail.com
 
