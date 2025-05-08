@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @anagha-chaudhari
-- 🌱 Looking forward to open-source contributions
 - 📫 Reach me at chaudhari.30.anagha@gmail.com
 
 <!---
