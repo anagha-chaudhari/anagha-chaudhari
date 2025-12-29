@@ -19,7 +19,7 @@
 
 ###
 
-<h3 align="left">𖦹  About Me</h3>
+<h3 align="left">── .✦  About Me</h3>
 
 ###
 
@@ -27,7 +27,7 @@
 
 ###
 
-<h3 align="left">𖦹  Language and tools</h3>
+<h3 align="left">── .✦  Language and tools</h3>
 
 ###
 
