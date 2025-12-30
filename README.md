@@ -2,12 +2,11 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6AD3F3&center=true&vCenter=true&width=500&lines=Aspiring+Software+Developer+%7C+Undergrad+%2727;Building+Backend+Systems+%26+Learning+DevOps;Curious.+Calm.+Consistent."
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=4dcbb1&center=true&vCenter=true&width=500&lines=Aspiring+Software+Developer+%7C+Undergrad+%2727;Building+Backend+Systems+%26+Learning+DevOps;Curious.+Calm.+Consistent."
     alt="Typing SVG"
   />
 </p>
 
----
 
 <div align="center">
   <a href="https://www.linkedin.com/in/anagha-chaudhari/" target="_blank">
@@ -40,24 +39,18 @@
 ---
 
 ## 🛠️ Languages & Tools
-
-### 💻 Programming
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
 </p>
-
-### 🌐 Frontend
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40"/>
 </p>
-
-### ⚙️ Backend & Databases
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/>
@@ -66,8 +59,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="40"/>
 </p>
-
-### ☁️ Tools
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
