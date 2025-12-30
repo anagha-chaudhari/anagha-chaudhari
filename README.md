@@ -1,5 +1,3 @@
-there will be two sections left side and right side boht will be equal and no table. on left side write about me and technology and tools and on the right side we will have the gif and linkedin mail button - in such a way u can add your creativity as well and keep it elegant and dont change info <h1 align="center">Hi There! 👋</h1>
-
 <div align="center">
   <img
     height="153"
