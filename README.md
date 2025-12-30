@@ -1,6 +1,5 @@
-<div align="center">
-  <img width="100%" height="100%" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDI5enU2cW9oaTRuYXF2eHpubGtieW83YzFjY3U0ZmRwdTM1azEzdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NNVWeKWyh2p026Or91/giphy.gif"  />
-</div>
+
+<h1 align="center">Hi There! 👋</h1>
 
 ###
 
@@ -15,15 +14,20 @@
 
 ###
 
-<h1 align="center">Hi There! 👋</h1>
 
-###
 
 <h3 align="left">  About Me</h3>
 
 ###
 
 <p align="left">I'm Anagha, an aspiring software developer (Undergrad'27). I enjoy building things, learning by doing and collaborating on real-world and open-source projects. Curious about how systems work behind the scenes and excited to grow into building reliable, scalable software✨</p>
+<div align="center">
+  
+###
+  
+  <img width="100%" height="100%" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDI5enU2cW9oaTRuYXF2eHpubGtieW83YzFjY3U0ZmRwdTM1azEzdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NNVWeKWyh2p026Or91/giphy.gif"  />
+</div>
+
 
 ###
 
