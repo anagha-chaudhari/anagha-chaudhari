@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm Anagha, Aspiring software developer (undergraduate'27) with hands-on experience in building RESTful APIs, server side logic, and database driven applications using Python and Node.js. Experienced in real-world projects and open-source collaboration using Git and GitHub. Possesses a strong foundation in backend fundamentals, problem solving, and clean coding practices with a keen interest in cloud computing and DevOps, including Azure, AWS, and GCP and a strong motivation to learn production grade, scalable systems.</p>
+<p align="left">I'm Anagha, an aspiring software developer (Undergrad'27). I enjoy building things, learning by doing and collaborating on real-world and open-source projects. Curious about how systems work behind the scenes and excited to grow into building reliable, scalable software✨</p>
 
 ###
 
