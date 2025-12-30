@@ -21,17 +21,26 @@
 
 ###
 
+<h3 align="left">About Me</h3>
 
+<img
+  src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDI5enU2cW9oaTRuYXF2eHpubGtieW83YzFjY3U0ZmRwdTM1azEzdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NNVWeKWyh2p026Or91/giphy.gif"
+  align="left"
+  height="90"
+  style="margin-right:14px; margin-top:4px;"
+  alt="coding"
+/>
 
-<h3 align="left">  About Me</h3>
+<p align="left" style="line-height:1.45;">
+I'm Anagha, an aspiring software developer (Undergrad ’27). I enjoy building things,
+learning by doing, and collaborating on real-world and open-source projects.
+Curious about how systems work behind the scenes and excited to grow into building
+reliable, scalable software ✨
+</p>
+
+<br clear="left"/>
 
 ###
-
-<p align="left">I'm Anagha, an aspiring software developer (Undergrad'27). I enjoy building things, learning by doing and collaborating on real-world and open-source projects. Curious about how systems work behind the scenes and excited to grow into building reliable, scalable software✨</p>
-<div align="center">
-  
-###
-  
 
 <h3 align="left">  Language and tools</h3>
 
