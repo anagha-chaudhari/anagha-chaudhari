@@ -1,10 +1,9 @@
 <h1 align="center">Hi There! 👋</h1>
 
-<div align="center">
-  <div style="display:flex; justify-content:space-between; gap:32px; align-items:flex-start; max-width:900px; margin:auto;">
-
-    <!-- LEFT -->
-    <div style="width:50%; text-align:left;">
+<table width="100%" cellspacing="0" cellpadding="0">
+  <tr>
+    <!-- LEFT SIDE -->
+    <td width="50%" valign="top">
 
       <h3>About Me</h3>
 
@@ -19,7 +18,7 @@
 
       <h3>Languages and tools</h3>
 
-      <div>
+      <p>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="34"/>
         <img width="10"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="34"/>
@@ -65,12 +64,12 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="34"/>
         <img width="10"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="34"/>
-      </div>
+      </p>
 
-    </div>
+    </td>
 
-    <!-- RIGHT -->
-    <div style="width:50%; text-align:center;">
+    <!-- RIGHT SIDE -->
+    <td width="50%" align="center" valign="top">
 
       <img
         src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDI5enU2cW9oaTRuYXF2eHpubGtieW83YzFjY3U0ZmRwdTM1azEzdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NNVWeKWyh2p026Or91/giphy.gif"
@@ -90,7 +89,6 @@
         <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="25"/>
       </a>
 
-    </div>
-
-  </div>
-</div>
+    </td>
+  </tr>
+</table>
