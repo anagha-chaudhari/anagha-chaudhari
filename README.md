@@ -19,15 +19,6 @@
 
 <br/>
 
-<h3 align="left">About Me</h3>
-
-<p align="left" style="line-height:1.45;">
-  I'm Anagha, an aspiring software developer (Undergrad ’27). I enjoy building things,
-  learning by doing, and collaborating on real-world projects.
-  Curious about how systems work behind the scenes and excited to grow into building
-  reliable, scalable software ✨
-</p>
-
 ###
 
 <h3 align="left">Language and tools</h3>
