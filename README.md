@@ -20,6 +20,17 @@
 <br/>
 
 ###
+<h3 align="left">About Me</h3>
+
+I work on systems where design decisions actually matter. 
+► Stack I reach for: Python, Flask/FastAPI, Java, JavaScript (Node.js), SQL (MySQL/PostgresSQL), Redis. Comfortable with Docker, CI pipelines and cloud - Microsoft Certified (AZ-900), hands-on knowledge of AWS and GCP.
+
+► Currently pre-final year. Expanding into Generative AI, ML and MLOps.
+
+I adapt fast - new problem, or new constraints? I find my footing and deliver.
+
+
+###
 
 <h3 align="left">Language and tools</h3>
 
