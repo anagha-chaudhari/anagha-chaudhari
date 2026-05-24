@@ -24,7 +24,7 @@
 
 I work on systems where design decisions actually matter.
 
-► Stack I reach for: Python, Flask/FastAPI, Java, JavaScript (Node.js), SQL (MySQL/PostgresSQL), Redis. Comfortable with Docker, CI pipelines and cloud - Microsoft Certified (AZ-900), hands-on knowledge of AWS and GCP.
+► Stack I reach for: Python, Java, SQL (MySQL/PostgresSQL), Flask/FastAPI, JavaScript, MongoDB, Redis. Comfortable with Docker, CI pipelines and cloud - Microsoft Certified (AZ-900), hands-on knowledge of AWS and GCP.
 
 ► Currently in Final Year (2027). Expanding into Generative AI, ML and MLOps.
 
