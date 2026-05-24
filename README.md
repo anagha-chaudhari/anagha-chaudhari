@@ -102,8 +102,7 @@ I adapt fast - new problem, or new constraints? I find my footing and deliver.
 <img width="14" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="45" alt="scikit-learn logo" />
 <img width="14" />
-<img src="https://matplotlib.org/_static/images/logo2.svg" height="45" alt="matplotlib logo" />
-<img width="14" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="45" alt="matplotlib logo" />
 <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="45" alt="seaborn logo" />
 <img width="14" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="45" alt="pytorch logo" />
