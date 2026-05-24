@@ -11,19 +11,19 @@
 <div align="center">
 
   <a href="https://www.linkedin.com/in/anagha-chaudhari/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="linkedin logo" />
+    <img src="https://img.shields.io/badge/LinkedIn-2F3A4F?style=for-the-badge&logo=linkedin&logoColor=white" height="36" alt="linkedin logo" />
   </a>
 
-  <img width="14" />
+  <img width="12" />
 
   <a href="mailto:anagha1804.work@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-FF3B30?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="gmail logo" />
+    <img src="https://img.shields.io/badge/Gmail-EA7A3B?style=for-the-badge&logo=gmail&logoColor=white" height="36" alt="gmail logo" />
   </a>
 
-  <img width="14" />
+  <img width="12" />
 
   <a href="https://anaghac.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" height="35" alt="portfolio logo" />
+    <img src="https://img.shields.io/badge/Portfolio-7FB77E?style=for-the-badge&logo=vercel&logoColor=white" height="36" alt="portfolio logo" />
   </a>
 
 </div>
