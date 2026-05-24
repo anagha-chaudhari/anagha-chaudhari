@@ -30,6 +30,11 @@ I work on systems where design decisions actually matter.
 
 I adapt fast - new problem, or new constraints? I find my footing and deliver.
 
+<p align="center">
+  <code><b>View more about my projects →</b></code>
+  <a href="https://anaghac.vercel.app/" target="_blank"><b>anaghac.vercel.app</b></a>
+</p>
+
 
 ###
 
