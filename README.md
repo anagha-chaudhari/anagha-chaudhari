@@ -49,7 +49,7 @@ I adapt fast - new problem, or new constraints? I find my footing and deliver.
 
 ###
 
-<h2 align="center">Tech Stack & Tools</h2>
+<h2 align="center">Tech Stack, Tools & Interests</h2>
 
 <div align="center">
 
