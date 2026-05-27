@@ -10,20 +10,32 @@
 
 <div align="center">
 
-  <a href="https://www.linkedin.com/in/anagha-chaudhari/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-2F3A4F?style=for-the-badge&logo=linkedin&logoColor=white" height="36" alt="linkedin logo" />
+   <a href="https://www.linkedin.com/in/anagha-chaudhari/" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=7DD3FC&labelColor=111827" 
+      height="42" 
+      alt="LinkedIn"
+    />
   </a>
 
-  <img width="12" />
+  &nbsp;&nbsp;
 
   <a href="mailto:anagha1804.work@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA7A3B?style=for-the-badge&logo=gmail&logoColor=white" height="36" alt="gmail logo" />
+    <img 
+      src="https://img.shields.io/badge/Gmail-1F2937?style=for-the-badge&logo=gmail&logoColor=FCA5A5&labelColor=111827" 
+      height="42" 
+      alt="Gmail"
+    />
   </a>
 
-  <img width="12" />
+  &nbsp;&nbsp;
 
   <a href="https://anaghac.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-7FB77E?style=for-the-badge&logo=vercel&logoColor=white" height="36" alt="portfolio logo" />
+    <img 
+      src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=C4B5FD&labelColor=0F172A" 
+      height="42" 
+      alt="Portfolio"
+    />
   </a>
 
 </div>
