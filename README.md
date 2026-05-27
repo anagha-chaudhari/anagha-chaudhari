@@ -6,17 +6,7 @@
   />
 </div>
 
-###
-<h3 align="left">About Me</h3>
-
-I work on systems where design decisions actually matter.
-
-► Stack I reach for: Python, Java, SQL (MySQL/PostgresSQL), Flask/FastAPI, JavaScript, MERN. Comfortable with Docker, CI pipelines and cloud - Microsoft Certified (AZ-900), hands-on knowledge of AWS and GCP.
-
-► Currently in Final Year (2027). Expanding into Generative AI, ML and MLOps.
-
-I adapt fast - new problem, or new constraints? I find my footing and deliver.
-
+<br>
 <p align="center">
   <code><b>View more about my projects →</b></code>
   <a href="https://anaghac.vercel.app/" target="_blank"><b>anaghac.vercel.app</b></a>
@@ -35,6 +25,19 @@ I adapt fast - new problem, or new constraints? I find my footing and deliver.
     <img src="https://img.shields.io/badge/portfolio-1e293b?style=flat-square&logo=vercel&logoColor=c4b5fd"/>
   </a>
 </p>
+</br>
+
+
+###
+<h3 align="left">About Me</h3>
+
+I work on systems where design decisions actually matter.
+
+► Stack I reach for: Python, Java, SQL (MySQL/PostgresSQL), Flask/FastAPI, JavaScript, MERN. Comfortable with Docker, CI pipelines and cloud - Microsoft Certified (AZ-900), hands-on knowledge of AWS and GCP.
+
+► Currently in Final Year (2027). Expanding into Generative AI, ML and MLOps.
+
+I adapt fast - new problem, or new constraints? I find my footing and deliver.
 
 
 ###
