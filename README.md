@@ -8,17 +8,19 @@
 
 <br>
 <p align="center">
+
   <a href="https://www.linkedin.com/in/anagha-chaudhari/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-1e293b?style=flat-square&logo=linkedin&logoColor=7dd3fc"/>
+    <img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
-  
+
   <a href="mailto:anagha1804.work@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-1e293b?style=flat-square&logo=gmail&logoColor=fda4af"/>
+    <img src="https://img.shields.io/badge/Contact-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
-  
+
   <a href="https://anaghac.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/portfolio-1e293b?style=flat-square&logo=vercel&logoColor=c4b5fd"/>
+    <img src="https://img.shields.io/badge/Visit-Portfolio-111111?style=flat-square&logo=vercel&logoColor=white"/>
   </a>
+
 </p>
 </br>
 
