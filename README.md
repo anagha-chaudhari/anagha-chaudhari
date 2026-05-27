@@ -8,11 +8,6 @@
 
 <br>
 <p align="center">
-  <code><b>View more about my projects →</b></code>
-  <a href="https://anaghac.vercel.app/" target="_blank"><b>anaghac.vercel.app</b></a>
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/anagha-chaudhari/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-1e293b?style=flat-square&logo=linkedin&logoColor=7dd3fc"/>
   </a>
@@ -39,6 +34,10 @@ I work on systems where design decisions actually matter.
 
 I adapt fast - new problem, or new constraints? I find my footing and deliver.
 
+<p align="center">
+  <code><b>View more about my projects →</b></code>
+  <a href="https://anaghac.vercel.app/" target="_blank"><b>anaghac.vercel.app</b></a>
+</p>
 
 ###
 
