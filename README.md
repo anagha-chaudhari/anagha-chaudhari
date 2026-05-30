@@ -17,10 +17,6 @@
     <img src="https://img.shields.io/badge/Contact-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
 
-  <a href="https://anaghac.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit-Portfolio-111111?style=flat-square&logo=vercel&logoColor=white"/>
-  </a>
-
 </p>
 </br>
 
@@ -38,7 +34,7 @@ I adapt fast - new problem, or new constraints? I find my footing and deliver.
 
 <p align="center">
   <code><b>View more about my projects →</b></code>
-  <a href="https://anaghac.vercel.app/" target="_blank"><b>anaghac.vercel.app</b></a>
+  <a href="#" target="_blank"><b></b></a>
 </p>
 
 ###
