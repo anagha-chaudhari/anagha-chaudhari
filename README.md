@@ -30,8 +30,6 @@ I work on systems where design decisions actually matter.
 
 ► Currently in Final Year (2027). Expanding into Generative AI, ML and MLOps.
 
-I adapt fast - new problem, or new constraints? I find my footing and deliver.
-
 <p align="center">
   <code><b>View more about my projects →</b></code>
   <a href="#" target="_blank"><b></b></a>
