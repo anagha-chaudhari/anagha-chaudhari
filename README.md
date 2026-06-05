@@ -24,7 +24,6 @@
 ###
 <h3 align="left">About Me</h3>
 
-"The most impactful technology is built not just with intelligence, but with understanding for the people it serves."
 
 ► Stack I reach for: Python, Java, SQL, Flask/FastAPI, JavaScript, MERN. Comfortable with Docker, CI pipelines and cloud - Microsoft Certified (AZ-900), hands-on knowledge of AWS and GCP.
 
