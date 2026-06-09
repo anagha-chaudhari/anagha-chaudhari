@@ -12,6 +12,7 @@ I enjoy building AI-powered applications, backend systems, and data-driven produ
 ![SHAP](https://img.shields.io/badge/SHAP-4B8BBE?style=flat)
 ![CrewAI](https://img.shields.io/badge/CrewAI-000000?style=flat)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat\&logo=langchain\&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-0078DF?style=flat)
 ![FinBERT](https://img.shields.io/badge/FinBERT-FFD43B?style=flat)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat\&logo=fastapi\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat\&logo=postgresql\&logoColor=white)
