@@ -48,17 +48,10 @@ Java desktop application built using layered architecture and cloud-hosted datab
 **👩‍⚕️PRISM (team project)**
 AI-powered ICU support system that transforms clinical notes and lab reports into structured risk assessments through a collaborative agent workflow.
 
-## Highlights
-
-* Top 70 Finalist among 1,500+ teams - Ignisia 2026 National Hackathon, Pune
-* Top 15 Finalist - Tynet 2.0 International Women Hackathon, Navi Mumbai
-* Microsoft Certified - Azure Fundamentals (AZ-900)
-* 5★ Java and C++ on HackerRank
-* Open Source Contributor - GSSoC 2024 (among top contributors nationwide)
 
 ## Connect
 
-[LinkedIn](https://linkedin.com/in/anagha-chaudhari) •
+🤝[LinkedIn](https://linkedin.com/in/anagha-chaudhari) •
 [GitHub](https://github.com/anagha-chaudhari)
 
 Always open to collaborating on interesting projects :)
