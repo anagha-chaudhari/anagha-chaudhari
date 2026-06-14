@@ -10,10 +10,10 @@ I enjoy building AI-powered applications, backend systems, and data-driven produ
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat\&logo=scikit-learn\&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat)
 ![SHAP](https://img.shields.io/badge/SHAP-4B8BBE?style=flat)
+![Generative AI](https://img.shields.io/badge/GenerativeAI-0078D4?style=flat\&logo=generativeai\&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/CrewAI-000000?style=flat)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat\&logo=langchain\&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-0078DF?style=flat)
-![FinBERT](https://img.shields.io/badge/FinBERT-FFD43B?style=flat)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat\&logo=fastapi\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat\&logo=postgresql\&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat\&logo=mongodb\&logoColor=white)
@@ -26,6 +26,9 @@ I enjoy building AI-powered applications, backend systems, and data-driven produ
 > Artificial Intelligence, Machine Learning, and MLOps.
 
 ## Projects
+
+**Clarix (Present)** 
+Interactive PDF to Knowledge Graph MindMap Platform 
 
 **💸Trax.ai**
 Multi-agent investment research platform that combines SEC filings, market data, news sentiment, and AI agents to generate structured investment insights.
