@@ -5,7 +5,7 @@ I enjoy building AI-powered applications, backend systems, and data-driven produ
 ## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat\&logo=openjdk\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-47A248?style=flat\&logo=openjdk\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat\&logo=postgresql\&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat\&logo=scikit-learn\&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat)
