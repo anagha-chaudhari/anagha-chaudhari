@@ -59,4 +59,4 @@ AI-powered ICU support system that transforms clinical notes and lab reports int
 
 Always open to collaborating on interesting projects :)
 
-**[anagha1804.work@gmail.com](mailto:anagha1804.work@gmail.com)**
+**[anaghachaudhari30@gmail.com](mailto:anaghachaudhari30@gmail.com)**
