@@ -23,7 +23,7 @@ I enjoy building AI-powered applications, backend systems, and data-driven produ
 
 ## Currently Exploring
 
-> Artificial Intelligence, Machine Learning
+> Artificial Intelligence, Machine Learning,
 > Observation and Reliability
 
 
