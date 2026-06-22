@@ -19,11 +19,12 @@ I enjoy building AI-powered applications, backend systems, and data-driven produ
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat\&logo=mongodb\&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat\&logo=redis\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat\&logo=docker\&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat\&logo=microsoftazure\&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=flat\&logo=microsoftazure\&logoColor=white)
 
 ## Currently Exploring
 
-> Artificial Intelligence, Machine Learning, and MLOps.
+> Artificial Intelligence, Machine Learning
+> Observation and Reliability
 
 
 ## Connect
