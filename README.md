@@ -25,32 +25,6 @@ I enjoy building AI-powered applications, backend systems, and data-driven produ
 
 > Artificial Intelligence, Machine Learning, and MLOps.
 
-## Projects
-
-**Clarix (Present)** 
-Interactive PDF to Knowledge Graph MindMap Platform 
-
-**💸Trax.ai**
-Multi-agent investment research platform that combines SEC filings, market data, news sentiment, and AI agents to generate structured investment insights.
-
-**🚔AccidentIQ**
-Machine learning application that predicts fatal road accidents and explains every prediction using interpretable AI techniques.
-
-**🍁Cityello**
-Urban analytics platform that evaluates neighbourhood livability through machine learning and data-driven scoring models.
-
-**⚙️Real-Time Market Simulator**
-Stock exchange simulator that replicates order matching, order books, and price-time priority execution.
-
-**🎞️Melohue**
-A distraction-free music and focus platform that brings playlists, favorite creators, study sessions, and personal music journaling into a single workspace inspired by retro web design (Copyright Registered Under Government of India)
-
-**📖Library Operations Management System**
-Java desktop application built using layered architecture and cloud-hosted databases for library management.
-
-**👩‍⚕️PRISM (team project)**
-AI-powered ICU support system that transforms clinical notes and lab reports into structured risk assessments through a collaborative agent workflow.
-
 
 ## Connect
 
