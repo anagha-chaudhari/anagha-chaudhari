@@ -28,11 +28,8 @@ I enjoy building AI-powered applications, backend systems, and data-driven produ
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-0078DF?style=flat)
-![RAG](https://img.shields.io/badge/RAG-0052CC?style=flat)
-![CrewAI](https://img.shields.io/badge/CrewAI-000000?style=flat)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-F7CE68?style=flat&logo=huggingface&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-4B0082?style=flat)
 
